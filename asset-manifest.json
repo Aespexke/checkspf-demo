@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/checkspf-demo/static/css/main.40d91b1f.chunk.css",
-    "main.js": "/checkspf-demo/static/js/main.4e9f5f8f.chunk.js",
-    "main.js.map": "/checkspf-demo/static/js/main.4e9f5f8f.chunk.js.map",
+    "main.js": "/checkspf-demo/static/js/main.6f6b4ba3.chunk.js",
+    "main.js.map": "/checkspf-demo/static/js/main.6f6b4ba3.chunk.js.map",
     "runtime-main.js": "/checkspf-demo/static/js/runtime-main.778d4742.js",
     "runtime-main.js.map": "/checkspf-demo/static/js/runtime-main.778d4742.js.map",
     "static/js/2.bcf9a20b.chunk.js": "/checkspf-demo/static/js/2.bcf9a20b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.778d4742.js",
     "static/js/2.bcf9a20b.chunk.js",
     "static/css/main.40d91b1f.chunk.css",
-    "static/js/main.4e9f5f8f.chunk.js"
+    "static/js/main.6f6b4ba3.chunk.js"
   ]
 }
