@@ -6,15 +6,15 @@ import {  BrowserRouter, Route, Switch } from 'react-router-dom';
 
 function App() {
 
-  const token = localStorage.getItem("accessToken");
+  /*const token = localStorage.getItem("accessToken");
 
   if(!token) {
     return <Signin />
-  }
+  }*/
 
   return (
     <div className="wrapper">
-      <BrowserRouter >
+      <BrowserRouter basename={'/checkspf-demo'}>
        <Switch>
          <Route path="/">
            <Profile/>
