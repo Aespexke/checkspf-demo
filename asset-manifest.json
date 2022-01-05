@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/checkspf-demo/static/css/main.40d91b1f.chunk.css",
+    "main.js": "/checkspf-demo/static/js/main.70569a65.chunk.js",
+    "main.js.map": "/checkspf-demo/static/js/main.70569a65.chunk.js.map",
+    "runtime-main.js": "/checkspf-demo/static/js/runtime-main.778d4742.js",
+    "runtime-main.js.map": "/checkspf-demo/static/js/runtime-main.778d4742.js.map",
+    "static/js/2.2ae5d298.chunk.js": "/checkspf-demo/static/js/2.2ae5d298.chunk.js",
+    "static/js/2.2ae5d298.chunk.js.map": "/checkspf-demo/static/js/2.2ae5d298.chunk.js.map",
+    "static/js/3.c4eae6d8.chunk.js": "/checkspf-demo/static/js/3.c4eae6d8.chunk.js",
+    "static/js/3.c4eae6d8.chunk.js.map": "/checkspf-demo/static/js/3.c4eae6d8.chunk.js.map",
+    "index.html": "/checkspf-demo/index.html",
+    "static/css/main.40d91b1f.chunk.css.map": "/checkspf-demo/static/css/main.40d91b1f.chunk.css.map",
+    "static/js/2.2ae5d298.chunk.js.LICENSE.txt": "/checkspf-demo/static/js/2.2ae5d298.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.778d4742.js",
+    "static/js/2.2ae5d298.chunk.js",
+    "static/css/main.40d91b1f.chunk.css",
+    "static/js/main.70569a65.chunk.js"
+  ]
+}
