@@ -49,7 +49,7 @@ export default function Profile() {
 
   const handleLogout = () => {
     localStorage.removeItem("accessToken");
-    window.location.href = " https://Aespexke.github.io/checkspf-demo/#/";
+    window.location.href = " /";
   }
 
   /*const handleLogout = () => {

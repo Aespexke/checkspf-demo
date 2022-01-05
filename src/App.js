@@ -14,7 +14,7 @@ function App() {
 
   return (
     <div className="wrapper">
-      <BrowserRouter basename={'/checkspf-demo'}>
+      <BrowserRouter >
        <Switch>
          <Route path="/">
            <Profile/>

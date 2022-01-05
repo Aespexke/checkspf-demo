@@ -71,7 +71,7 @@ const useStyles = makeStyles((theme) => ({
         .then((value) => {
           localStorage.setItem('accessToken', response['accessToken']);
           localStorage.setItem('user', JSON.stringify(response['user']));
-          window.location.href = "https://Aespexke.github.io/checkspf-demo/#/profile";
+          window.location.href = "/profile";
         });
       } else {
         swal("Failed", response.message, "error");
